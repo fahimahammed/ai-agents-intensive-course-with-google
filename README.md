@@ -25,7 +25,7 @@ By the end of the course, participants will be able to **build, evaluate, and de
 | Day | Topic | Focus |
 |-----|--------|--------|
 | **Day 1** | Introduction to Agents | Learn core concepts, build your first AI agent and a multi-agent system using ADK & Gemini |
-| **Day 2** | *Coming November 10, 2025* | - |
+| **Day 2** | Agent Tools & Interoperability with MCP | - |
 | **Day 3** | *Coming November 11, 2025* | - |
 | **Day 4** | *Coming November 12, 2025* | - |
 | **Day 5** | *Coming November 13, 2025* | - |
